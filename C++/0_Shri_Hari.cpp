@@ -6,4 +6,5 @@ int main()
     cout<<"SHRI HARI "<<endl;
     cout<<"Hello World\n"<<endl;
     return 0;
+    return 1;
 }
